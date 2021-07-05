@@ -1,5 +1,7 @@
 # kpsdk
-akamai针对nike更新出了新的x-kpsdk-ct x-kpsdk-cd
+Kasada (https://www.kasada.io/)
+
+nike login new headers x-kpsdk-ct x-kpsdk-cd
 
 ips.js中对正常的程序执行流程进行解体，实现了类似寄存器一样的程序行为。只要针对一些固定的位置进行断点分析，即可分析出全部流程。
 
