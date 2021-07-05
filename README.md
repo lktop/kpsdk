@@ -1,5 +1,5 @@
 # kpsdk
-Kasada (https://www.kasada.io/)
+Kasada (https://www.kasada.io/)   ips.js
 
 nike login new headers x-kpsdk-ct x-kpsdk-cd
 
